@@ -100,23 +100,6 @@ Contoso is also looking to augment their data analytics story by introducing a d
 
 8.  A data warehouse for analyzing their transaction history.
 
-### Customer objections
-
-1.  It is not clear to us from the Azure Trust Center just how Azure helps our solution become PCI compliant.
-
-2.  Can we provide a solution that scales to meet our public demand, but is also secure for use by our call center and warehouse?
-
-3.  Our PCI compliance requires us to have a quarterly audit and to conduct occasional penetration tests. Is it supported by Azure?
-
-4.  Can we audit the Azure data center?
-
-5.  In the past, we have relied on SOASTA CloudTest to design and execute our web load tests at scale. In moving to Azure, are we still take advantage of CloudTest?
-
-6.  Our previous infrastructure did not have great performance monitoring of our websites. What options would you recommend we investigate that would work with our web apps in Azure?
-
-7.  We have heard that Azure's data warehouse can be paused? Does that mean we have to store all our data in Azure Storage first before we can pause the instances and risk losing our data?
-
-8.  We know it's possible to use Azure SQL Database as our data warehouse. What should we consider when deciding between this and Azure SQL Data Warehouse?
 
 ### Infographic for common scenarios
 
