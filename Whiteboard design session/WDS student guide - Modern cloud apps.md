@@ -258,3 +258,6 @@ Directions: Tables reconvene with the larger group to hear the facilitator/SME s
 | Azure SQL Database                                           |                <https://docs.microsoft.com/en-us/azure/sql-database/sql-database-geo-replication-overview/>                 |
 | Designing highly available services using Azure SQL Database |     <https://docs.microsoft.com/en-us/azure/sql-database/sql-database-designing-cloud-solutions-for-disaster-recovery>      |
 
+Service Bus vs Azure Queues - aka.ms/mcw-queues-2019
+Azure Load Balancing options - aka.ms/mcw-lb-2019
+
